@@ -45,8 +45,8 @@ echo "Is your name O\'reilly?";
 </head>
 <body>
   <!-- You can output PHP including variables, etc -->
-  <h1>Hello <?php echo 'Brad'; ?></h1>
+  <h1>Hello <?php echo 'Ram'; ?></h1>
   <!-- You may only drop the semi-colon after a statement when the statement is followed immediately by a closing PHP tag ?>. -->
-  <h1>Hello <?= 'Brad' ?></h1>
+  <h1>Hello <?= 'Ram' ?></h1>
 </body>
 </html>

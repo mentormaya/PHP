@@ -25,7 +25,7 @@ function registerUser2($username)
 }
 
 // Pass in an argument
-registerUser2('Brad');
+registerUser2('Ram');
 
 // Returning values
 function add($num1, $num2)

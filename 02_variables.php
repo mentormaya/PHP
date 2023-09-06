@@ -23,7 +23,7 @@
 - Variables are case-sensitive ($name and $NAME are two different variables)
 */
 
-$name = 'Brad'; // String // Can be single or double quotes
+$name = 'Ram'; // String // Can be single or double quotes
 $age = 40; // Integer
 $hasKids = true; // Boolean
 $cashOnHand = 10.5; //Float

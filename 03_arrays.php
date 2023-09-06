@@ -53,9 +53,9 @@ var_dump($hex);
 
 // Single person
 $person1 = [
-  'first_name' => 'Brad',
+  'first_name' => 'Ram',
   'last_name' => 'Traversy',
-  'email' => 'brad@gmail.com',
+  'email' => 'Ram@gmail.com',
 ];
 
 // Array of people
@@ -83,5 +83,5 @@ echo $people[2]['email'];
 var_dump(json_encode($people));
 
 // Decode from JSON
-$jsonobj = '{"first_name":"Brad","last_name": "Traversy","email":"brad@gmail.com"}';
+$jsonobj = '{"first_name":"Ram","last_name": "Traversy","email":"Ram@gmail.com"}';
 var_dump(json_decode($jsonobj));

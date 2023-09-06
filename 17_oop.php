@@ -44,12 +44,12 @@ class User {
 }
 
 // Instantiate a new user
-$user1 = new User('Brad', 'brad@gmail.com', '123456');
+$user1 = new User('Ram', 'Ram@gmail.com', '123456');
 echo $user1->getName();
 echo $user1->login();
 
 // Add a value to a property
-// $user1->name = 'Brad';
+// $user1->name = 'Ram';
 
 var_dump($user1);
 // echo $user1->name;

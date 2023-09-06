@@ -11,7 +11,7 @@ if (isset($_POST['submit'])) {
 } ?>
 
 <!-- Pass data through a link -->
-<a href="<?php echo $_SERVER['PHP_SELF']; ?>?username=Brad">Link</a>
+<a href="<?php echo $_SERVER['PHP_SELF']; ?>?username=Ram">Link</a>
 
 
 <br><br>
