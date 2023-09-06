@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ramtraversy/php-crash.git"
+    "url": "git+https://github.com/RamSingh/php-crash.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ramtraversy/php-crash/issues"
+    "url": "https://github.com/RamSingh/php-crash/issues"
   },
-  "homepage": "https://github.com/Ramtraversy/php-crash#readme",
+  "homepage": "https://github.com/RamSingh/php-crash#readme",
   "devDependencies": {
     "@prettier/plugin-php": "^0.18.3",
     "prettier": "^2.6.0"

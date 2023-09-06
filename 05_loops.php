@@ -76,7 +76,7 @@ foreach ($posts as $index => $post) {
 
 $person = [
   'first_name' => 'Ram',
-  'last_name' => 'Traversy',
+  'last_name' => 'Singh',
   'email' => 'Ram@gmail.com',
 ];
 
