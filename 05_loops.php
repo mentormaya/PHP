@@ -69,7 +69,7 @@ foreach ($numbers as $x) {
 $posts = ['Post One', 'Post Two', 'Post Three'];
 
 foreach ($posts as $index => $post) {
-  echo "${index} - ${post} <br>";
+  echo "$index - $post <br>";
 }
 
 // Use the keys within the loop for an associative array
@@ -82,5 +82,5 @@ $person = [
 
 // Get Keys
 foreach ($person as $key => $val) {
-  echo "${key} - ${val} <br>";
+  echo "$key - $val <br>";
 }

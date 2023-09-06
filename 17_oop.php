@@ -62,6 +62,7 @@ var_dump($user1);
 */
 
 class employee extends User {
+  private $title;
   public function __construct($name, $email, $password, $title) {
     parent::__construct($name, $email, $password);
     $this->title = $title;
